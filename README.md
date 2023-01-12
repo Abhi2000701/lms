@@ -1,11 +1,4 @@
 # Library Managment System
-# CS253 Assignment-1
--prof Indranil Saha
-
-**Submitted By-**
-
-Name- *Sahil Bansal* <br>
-Roll No.- *200836*
 
 Implement Library Management System in C++ language using Object-oriented programming concepts. Implement the system on command line interface.
 

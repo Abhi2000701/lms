@@ -66,7 +66,7 @@ I have made a single class for professor and student, because they have same fun
 ## Setup
 
 ```
-git clone https://github.com/sahilb2002/library_management_system.git
+https://github.com/Abhi2000701/lms.git
 ```
 I have used cmake to build the code.
 
